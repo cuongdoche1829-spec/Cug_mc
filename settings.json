@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Cug_mc",
+    "username": ".aihoi",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "messages": [
         "hello",
         "hello!",
-        "server Cug_mc"
+        "aihoi"
       ]
     },
     "chat-log": true,
